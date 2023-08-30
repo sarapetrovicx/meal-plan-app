@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Meals</string>
+    <string name="meals">Meals</string>
+    <string name="saved">Saved</string>
+    <string name="filter">Filter</string>
+    <string name="categories">Categories</string>
+    <string name="input">Add</string>
+    <string name="search">Search</string>
+    <string name="add">Add</string>
+    <string name="show_description">More</string>
+    <string name="more">More</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="empty">You can\'t leave this field empty.</string>
+
+</resources>
